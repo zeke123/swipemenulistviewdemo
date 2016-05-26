@@ -23,6 +23,8 @@ import com.ldwx.swipemenulistviewdemo.view.SwipeMenuListView;
 import com.ldwx.swipemenulistviewdemo.view.SwipeMenuListView.OnMenuItemClickListener;
 
 public class MainActivity extends Activity {
+	
+	
 
 	private SwipeMenuListView mListView;
 	private AppAdapter mAdapter;
